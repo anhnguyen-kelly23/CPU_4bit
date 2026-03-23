@@ -1,0 +1,12 @@
+# ModelSim / simulation
+sim/
+work/
+*.mpf
+*.mti
+*.bak
+transcript
+vsim.wlf
+
+# Temp
+*.log
+*.jou
